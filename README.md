@@ -83,6 +83,6 @@ The analysis shows that user engagement plays a key role in course success. Data
 
 ---
 
-## 👤 Author
+## Author
 
 Pragya Chaudhary
